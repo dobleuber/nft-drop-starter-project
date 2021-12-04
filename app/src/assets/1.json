@@ -1,0 +1,23 @@
+{
+    "name": "Yellow House",
+    "symbol": "🏠",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        },
+        {
+            "uri": "1.html",
+            "type": "text/html"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3e54debZN6EUJUFzqyxhgpADZBwrMc2R1b61jeK5rSXs",
+          "share": 100
+        }
+      ]
+    }
+  }

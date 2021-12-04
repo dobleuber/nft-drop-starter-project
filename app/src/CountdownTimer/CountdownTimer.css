@@ -6,3 +6,8 @@
 .timer-container .timer-value {
   font-size: 18px;
 }
+
+div.timer-container {
+  flex-direction: column;
+  padding: 0.1em;
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Pink House",
+    "symbol": "🏠",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        },
+        {
+            "uri": "2.html",
+            "type": "text/html"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3e54debZN6EUJUFzqyxhgpADZBwrMc2R1b61jeK5rSXs",
+          "share": 100
+        }
+      ]
+    }
+  }
